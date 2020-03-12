@@ -1,0 +1,7 @@
+After set_conda
+
+1. pip freeze | for output a list of installed packages and their versions.
+3. pip show --verbose numpy | show the meta data numpy
+4. pip install pytesseract
+5. pip freeze > requirements.txt generate requirements.txt of pip
+5. pip install -r requirements.txt install packages of requirements file
